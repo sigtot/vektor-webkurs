@@ -1,0 +1,21 @@
+body, html {
+  background:#effeff;
+  font-family: Lato , serif;
+}
+
+.box-container {
+}
+
+.box {
+  margin: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  display:inline-block;
+}
+
+.box .body {
+  color: #333;
+  padding: 20px;
+}
